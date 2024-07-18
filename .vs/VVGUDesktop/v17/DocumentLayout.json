@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\converters\\studentsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\converters\\studentsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\databasefiles\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:databasefiles\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\databasefiles\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:databasefiles\\dbcontextapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\migrations\\vuzdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:migrations\\vuzdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\migrations\\20240528041944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:migrations\\20240528041944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\views\\grouppageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:views\\grouppageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\views\\grouppageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:views\\grouppageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\subjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\subjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\views\\studentpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:views\\studentpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\views\\studentpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:views\\studentpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\viewmodels\\converters\\subjectsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:viewmodels\\converters\\subjectsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\vvgudesktop\\views\\teacherpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:views\\teacherpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\views\\teacherpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:views\\teacherpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|Journal.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\views\\subjectpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:views\\subjectpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\views\\schedulepageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:views\\schedulepageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{163C3DAF-5F3D-46CD-BF38-B7F556A251B4}|VVGUDesktop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\obj\\debug\\net8.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\debug\\net8.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 143,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextApp.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\DataBaseFiles\\DbContextApp.cs",
+              "RelativeDocumentMoniker": "DataBaseFiles\\DbContextApp.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\DataBaseFiles\\DbContextApp.cs",
+              "RelativeToolTip": "DataBaseFiles\\DbContextApp.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:57:53.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VuzDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Migrations\\VuzDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\VuzDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Migrations\\VuzDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\VuzDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:57:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240528041944_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Migrations\\20240528041944_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240528041944_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Migrations\\20240528041944_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240528041944_InitialCreate.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:57:30.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:57:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:53:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TeacherViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\TeacherViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TeacherViewModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:52:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\SubjectViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SubjectViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\SubjectViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SubjectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:51:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:49:01.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\StudentPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\StudentPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\StudentPageView.xaml",
+              "RelativeToolTip": "Views\\StudentPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T01:48:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjectsConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\Converters\\SubjectsConverter.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Converters\\SubjectsConverter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\Converters\\SubjectsConverter.cs",
+              "RelativeToolTip": "ViewModels\\Converters\\SubjectsConverter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:42:40.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\GroupPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\GroupPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\GroupPageView.xaml",
+              "RelativeToolTip": "Views\\GroupPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T01:42:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\Converters\\StudentsConverter.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Converters\\StudentsConverter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\Converters\\StudentsConverter.cs",
+              "RelativeToolTip": "ViewModels\\Converters\\StudentsConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:42:34.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:42:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:42:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:42:26.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeacherPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\TeacherPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\TeacherPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\TeacherPageView.xaml",
+              "RelativeToolTip": "Views\\TeacherPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T01:37:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T01:37:06.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\GroupViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GroupViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\GroupViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:19:59.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:19:56.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:19:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextApp.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\DataBaseFiles\\DbContextApp.cs",
+              "RelativeDocumentMoniker": "DataBaseFiles\\DbContextApp.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\DataBaseFiles\\DbContextApp.cs",
+              "RelativeToolTip": "DataBaseFiles\\DbContextApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:18:34.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StudentViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:13:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T08:09:31.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:42:15.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwIgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:37:27.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\TeacherPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\TeacherPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\TeacherPageView.xaml",
+              "RelativeToolTip": "Views\\TeacherPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:12:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubjectPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\SubjectPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\SubjectPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\SubjectPageView.xaml",
+              "RelativeToolTip": "Views\\SubjectPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:12:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\StudentPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\StudentPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\StudentPageView.xaml",
+              "RelativeToolTip": "Views\\StudentPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:12:18.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SchedulePageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\SchedulePageView.xaml",
+              "RelativeDocumentMoniker": "Views\\SchedulePageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\SchedulePageView.xaml",
+              "RelativeToolTip": "Views\\SchedulePageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:12:12.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:11:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\GroupPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\GroupPageView.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\VVGUDesktop\\Views\\GroupPageView.xaml",
+              "RelativeToolTip": "Views\\GroupPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T07:11:40.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
